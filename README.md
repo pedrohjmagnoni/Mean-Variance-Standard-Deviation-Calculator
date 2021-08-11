@@ -1,2 +1,2 @@
 # Mean-Variance-Standard-Deviation-Calculator
-data analysis with python project from freecodecamp course
+My solution for the Mean-Variance-Standard-Deviation-Calculator project from the data analysis with python course. This is one of the challenges needed to claim your Data Analysis with Python Certification from freeCodeCamp
